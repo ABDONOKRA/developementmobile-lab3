@@ -26,7 +26,7 @@ L'application se compose de deux écrans :
 - `activity_screen2.xml` : Design de l'écran de récapitulatif.
 
 ## 🎬 Démo Vidéo
-*(Insérez votre lien de démo ici ou regardez la capture ci-dessous)*
+
 
 https://github.com/ABDONOKRA/developementmobile-lab3/issues/1
 
