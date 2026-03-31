@@ -1,4 +1,4 @@
-# Lab 2 : Formulaire et Intent Explicite - Android
+# Lab 3 : Formulaire et Intent Explicite - Android
 
 Ce projet est un laboratoire pratique pour apprendre les bases de la navigation entre activités et la transmission de données dans Android.
 
