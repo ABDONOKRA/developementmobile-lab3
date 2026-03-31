@@ -28,7 +28,7 @@ L'application se compose de deux écrans :
 ## 🎬 Démo Vidéo
 *(Insérez votre lien de démo ici ou regardez la capture ci-dessous)*
 
-![Demo Placeholder](https://via.placeholder.com/300x600?text=Video+Demo+Coming+Soon)
+https://github.com/ABDONOKRA/developementmobile-lab3/issues/1
 
 ---
 *Réalisé dans le cadre du cours de Développement Mobile.*
